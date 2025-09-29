@@ -1,0 +1,5 @@
+# Ignore Data Folder
+data/*
+
+# Ignoring pre trained model
+Fichier_modeles_pre_entraines/*
